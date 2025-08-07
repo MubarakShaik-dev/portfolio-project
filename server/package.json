@@ -1,0 +1,15 @@
+{
+  "name": "portfolio-server",
+  "version": "1.0.0",
+  "description": "Backend for the portfolio application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mubarak Shaik",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
