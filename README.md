@@ -40,7 +40,7 @@ This is a modern, responsive, and performant single-page portfolio website built
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/portfolio-project.git](https://github.com/your-username/portfolio-project.git)
+    git clone [https://github.com/MubarakShaik-dev/portfolio-project.git](https://github.com/your-username/portfolio-project.git)
     cd portfolio-project
     ```
 
